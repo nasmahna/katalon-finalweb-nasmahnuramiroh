@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tanya Pratama</name>
+   <tag></tag>
+   <elementGuidId>590274f8-b08c-42ad-b2ed-255c34fbdd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userDetails']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#userDetails > div > label.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#userDetails >> internal:text=&quot;Tanya Pratama&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1d87cc52-454c-4c4a-87a5-b58e88b0a571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>ea07fbe7-0a9d-4a2a-a498-ce1d228cd6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanya Pratama</value>
+      <webElementGuid>817ba6b6-7e15-4ee6-b417-a134c4821439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userDetails&quot;)/div[1]/label[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>65ece207-7cab-4b77-9b78-52ab129ebde2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userDetails']/div/label</value>
+      <webElementGuid>0f8bccb2-a5f1-4f36-9b75-49cdb641d7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORDER PAYMENT'])[2]/following::label[3]</value>
+      <webElementGuid>3306d1b7-1985-429d-b0bf-987a9c871e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORDER PAYMENT'])[1]/following::label[3]</value>
+      <webElementGuid>ff3ae763-bbaf-4964-be70-a6d920b92969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hdfhagkerf'])[1]/preceding::label[1]</value>
+      <webElementGuid>0e376a19-a5ae-4d23-bfe2-942f4cea3940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brisbane'])[1]/preceding::label[2]</value>
+      <webElementGuid>4e839981-5f4b-49c8-be48-54d90bac5cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tanya Pratama']/parent::*</value>
+      <webElementGuid>ecdbc6f8-e12e-45f6-a04f-df86756c73d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label</value>
+      <webElementGuid>6a6677cb-1655-4f95-b651-99c601200f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Tanya Pratama' or . = 'Tanya Pratama')]</value>
+      <webElementGuid>aff2ab88-708d-4946-9728-a0c5ac5c5f7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

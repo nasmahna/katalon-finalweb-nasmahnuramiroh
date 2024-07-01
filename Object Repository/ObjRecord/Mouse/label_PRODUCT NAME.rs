@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PRODUCT NAME</name>
+   <tag></tag>
+   <elementGuidId>33fa702f-9c43-40e8-95be-b58cdb9c4bc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shoppingCart']/table/thead/tr/th[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.roboto-light.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PRODUCT NAME&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>09a077df-abf0-4428-bbdf-73292eed6b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-scope</value>
+      <webElementGuid>8f3684c1-5351-4c5d-ae00-5021d8bf4ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>PRODUCT_NAME</value>
+      <webElementGuid>dbf9c22c-0993-4152-8a15-299a1385d1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRODUCT NAME</value>
+      <webElementGuid>f158ae3b-3cc7-473f-b6dd-1d8a06e80e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shoppingCart&quot;)/table[@class=&quot;fixedTableEdgeCompatibility&quot;]/thead[1]/tr[1]/th[2]/label[@class=&quot;roboto-light ng-scope&quot;]</value>
+      <webElementGuid>f4b4b268-f477-4fe9-936c-c7608f034b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shoppingCart']/table/thead/tr/th[2]/label</value>
+      <webElementGuid>6e85eecd-870f-4780-ada5-46b0e824162e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::label[1]</value>
+      <webElementGuid>53c57fd8-8405-44b9-817c-22ec5681c749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WARRANTY'])[1]/preceding::label[1]</value>
+      <webElementGuid>c0f09e1c-bb1f-4e99-8300-029586e33a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COLOR'])[1]/preceding::label[2]</value>
+      <webElementGuid>c6b11ba5-5a6e-4b42-b5be-f2dfb43d1193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PRODUCT NAME']/parent::*</value>
+      <webElementGuid>3fe3f7f2-a30e-4864-9607-cca07c65abfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/label</value>
+      <webElementGuid>022f184a-3cd4-484e-99c1-594f56e9eb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'PRODUCT NAME' or . = 'PRODUCT NAME')]</value>
+      <webElementGuid>f5924748-b23b-4f20-94ec-1f7c8fc9b539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

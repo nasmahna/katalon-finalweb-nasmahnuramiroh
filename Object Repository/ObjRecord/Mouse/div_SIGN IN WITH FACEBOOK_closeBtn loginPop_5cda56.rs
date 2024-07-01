@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SIGN IN WITH FACEBOOK_closeBtn loginPop_5cda56</name>
+   <tag></tag>
+   <elementGuidId>cf76e4ab-a76a-4d56-8ea4-eac6c0fcf645</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.closeBtn.loginPopUpCloseBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.closeBtn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>663008f3-6b1b-4a5b-830d-a77319f8ea20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>closeBtn loginPopUpCloseBtn</value>
+      <webElementGuid>190d0203-66cb-4bbc-bef4-00256dc636d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/login-modal[1]/div[@class=&quot;PopUp&quot;]/div[1]/div[@class=&quot;closeBtn loginPopUpCloseBtn&quot;]</value>
+      <webElementGuid>3977633f-df57-4d0e-a72f-609a6e6e372a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>78a88f27-1116-4780-b7bc-f1778a3ad436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

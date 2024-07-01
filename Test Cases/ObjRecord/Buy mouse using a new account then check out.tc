@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy mouse using a new account then check out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f99e1c03-7444-4564-9cdc-63cafc531d60</testCaseGuid>
+</TestCaseEntity>
