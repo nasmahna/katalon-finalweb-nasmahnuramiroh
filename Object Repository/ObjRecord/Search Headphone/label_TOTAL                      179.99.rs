@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_TOTAL                      179.99</name>
+   <tag></tag>
+   <elementGuidId>ed77dccc-21cf-4542-b82d-1b0bd92a0342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='orderPaymentSuccess']/div/div[3]/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.total.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TOTAL $179.99&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c1af4878-c4c8-488d-9f59-db0220fee717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>total ng-binding</value>
+      <webElementGuid>1834e24a-5e76-4133-9c0f-2ddc295c6729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    TOTAL
+                      $179.99 
+                </value>
+      <webElementGuid>1ea85f97-e132-47b0-bb54-5e819ae7c357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderPaymentSuccess&quot;)/div[1]/div[@class=&quot;seccion&quot;]/div[@class=&quot;innerSeccion&quot;]/label[@class=&quot;total ng-binding&quot;]</value>
+      <webElementGuid>69f29fe7-4f55-4b68-8394-f98c63254f64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderPaymentSuccess']/div/div[3]/div[3]/label</value>
+      <webElementGuid>48ccf120-3da7-44a1-9cfd-a0935f370883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[5]/following::label[1]</value>
+      <webElementGuid>b94dfce1-9c90-481e-b62b-7a880f727deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOLLOW US'])[1]/preceding::label[1]</value>
+      <webElementGuid>b96fa7f3-9423-405c-8439-781289c1e3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/label</value>
+      <webElementGuid>055b47b4-98b2-485b-a8f4-5176b1416b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                    TOTAL
+                      $179.99 
+                ' or . = '
+                    TOTAL
+                      $179.99 
+                ')]</value>
+      <webElementGuid>e2a05dca-f37b-43b5-a9b2-b4ea0c6bb875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

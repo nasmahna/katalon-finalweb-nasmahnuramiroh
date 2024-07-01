@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RED_removeProduct iconCss iconX</name>
+   <tag></tag>
+   <elementGuidId>15832aab-5cb2-4b26-b396-f0f4f0be1a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product']/td[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.removeProduct.iconCss.iconX</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;imgProduct HP PAVILION 15Z TOUCH LAPTOP QTY: 1 Color: RED $449.99&quot;i] >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec7c99ff-a38e-4a78-86a3-b99db0c9c558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>removeProduct iconCss iconX</value>
+      <webElementGuid>539201d9-b774-41a9-8290-05d9b50d2d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[2]/ul[1]/li[1]/tool-tip-cart[@id=&quot;toolTipCart&quot;]/div[1]/table[1]/tbody[1]/tr[@id=&quot;product&quot;]/td[3]/div[@class=&quot;closeDiv&quot;]/div[@class=&quot;removeProduct iconCss iconX&quot;]</value>
+      <webElementGuid>efdfaf36-92d4-4d6e-81d3-3b5b17d4ae9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product']/td[3]/div/div</value>
+      <webElementGuid>12f3268d-9e61-4ccc-85d5-86bee44362e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div</value>
+      <webElementGuid>af2730d0-09f7-47bb-80a0-97edfc10fd90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
