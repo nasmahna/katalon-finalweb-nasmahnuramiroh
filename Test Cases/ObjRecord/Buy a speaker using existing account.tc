@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Buy an Speaker</name>
+   <name>Buy a speaker using existing account</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

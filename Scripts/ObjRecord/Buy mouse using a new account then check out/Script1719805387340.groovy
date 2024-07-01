@@ -59,11 +59,11 @@ WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/button_CHECKOUT (4
 
 WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/button_REGISTRATION'))
 
-WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__usernameRegisterPage'), 'Bonita')
+WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__usernameRegisterPage'), 'Qonita')
 
 WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/label_Email'))
 
-WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__emailRegisterPage'), 'bonita@gmail.com')
+WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__emailRegisterPage'), 'qonita@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/ObjRecord/Mouse/input__passwordRegisterPage'), 'SoMB3EzsHYLQBvZMwOp0BA==')
 
@@ -71,7 +71,7 @@ WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/label_Confirm pass
 
 WebUI.setEncryptedText(findTestObject('Object Repository/ObjRecord/Mouse/input__confirm_passwordRegisterPage'), 'SoMB3EzsHYLQBvZMwOp0BA==')
 
-WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input_PERSONAL DETAILS_first_nameRegisterPage'), 'Bonita')
+WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input_PERSONAL DETAILS_first_nameRegisterPage'), 'Qonita')
 
 WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/label_Last Name'))
 
@@ -120,7 +120,7 @@ WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/input_Choose payme
 
 WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/label_SafePay username'))
 
-WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__safepay_username'), 'Bonita')
+WebUI.setText(findTestObject('Object Repository/ObjRecord/Mouse/input__safepay_username'), 'Qonita')
 
 WebUI.click(findTestObject('Object Repository/ObjRecord/Mouse/label_SafePay password'))
 
